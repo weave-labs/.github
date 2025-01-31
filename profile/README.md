@@ -8,21 +8,13 @@ Welcome to Weave Labs, where we weave the power of AI into automated software te
 
 Weave Labs is building an AI-driven testing platform that automates the entire testing process. Think of us as your AI-powered QA engineer, tirelessly scanning your repositories and ensuring your code is covered from top to bottom.
 
-🔍 Automatic Test Discovery:
+🔍 Automatic Test Discovery: We scan repositories to detect API endpoints, UI elements, and missing unit tests.
 
-We scan repositories to detect API endpoints, UI elements, and missing unit tests.
+📝 AI-Generated Tests: Automatically create unit tests, integration tests, and UI tests—so you don’t have to!
 
-📝 AI-Generated Tests:
+⚡ Seamless Execution: Run generated tests against configured applications without manual intervention.
 
-Automatically create unit tests, integration tests, and UI tests—so you don’t have to!
-
-⚡ Seamless Execution:
-
-Run generated tests against configured applications without manual intervention.
-
-🔄 Continuous Improvement:
-
-Learn from past executions to optimize test coverage and effectiveness over time.
+🔄 Continuous Improvement: Learn from past executions to optimize test coverage and effectiveness over time.
 
 If you've ever wished your testing suite could write and run itself, Weave Labs is making that dream a reality! 🎉
 
