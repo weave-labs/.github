@@ -1,6 +1,6 @@
 # Welcome to Weave Labs! 🧵🤖
 
-AI-Powered Testing on Autopilot 🚀
+### AI-Powered Testing on Autopilot 🚀
 
 Welcome to Weave Labs, where we weave the power of AI into automated software testing! Our mission? To eliminate the headaches of manual test creation and execution by leveraging cutting-edge AI to streamline your testing workflow.
 
