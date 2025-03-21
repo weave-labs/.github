@@ -1,36 +1,21 @@
-# Welcome to Weave Labs! 🧵🤖
+# weavelabs 
+Welcome to weavelabs, where we're building an AI-driven platform for the Software Development Life Cycle (SDLC). Our mission is to simplify and accelerate the development process by providing cutting-edge tools and technologies that help teams deliver high-quality software faster.
 
-### AI-Powered Testing on Autopilot 🚀
+## Our Platform 
+*Our platform focuses on three major features:*
 
-Welcome to Weave Labs, where we weave the power of AI into automated software testing! Our mission? To eliminate the headaches of manual test creation and execution by leveraging cutting-edge AI to streamline your testing workflow.
+- *Automatic Code Scanning and Analysis*: Our Service Registry module uses AI-powered code scanning and analysis to automatically detect APIs, schema, and documentation. This provides a single pane of glass to view all services, making it easier to manage and understand complex systems.
+- *Synthetic Data Generation*: Our Synthetic Data Generation module generates high-quality, synthetic datasets based on discovered schemas. These datasets can be used for testing, training, and validation, reducing the need for manual data creation and increasing test coverage.
+- *Test Management and Execution*: Our Test Management and Execution module uses the Service Registry and generated data to automatically create Use Cases, Test Cases, Test Suites, and Executable Tests. This enables teams to generate integration tests, performance tests, and end-to-end tests with ease, all backed by powerful reporting dashboards.
 
-## What We Do
+## Open Source 
+The best part? Our platform is Open Source! We believe that open collaboration and community involvement are essential for driving innovation and adoption. By making our platform open source, we invite developers, testers, and organizations to contribute, customize, and extend our tools to meet their specific needs.
 
-Weave Labs is building an AI-driven testing platform that automates the entire testing process. Think of us as your AI-powered QA engineer, tirelessly scanning your repositories and ensuring your code is covered from top to bottom.
+## Join The Community!
+Want to learn more about our platform or contribute to its development? Here's how:
 
-🔍 **Automatic Test Discovery**: We scan repositories to detect API endpoints, UI elements, and missing unit tests.
+- 🔍 Explore our repositories to see our code in action
+- 💬 Join our community Discord to discuss features, ask questions, and share knowledge
+- 👋 Contribute to our issues or submit a pull request to help improve our platform
 
-📝 **AI-Generated Tests**: Automatically create unit tests, integration tests, and UI tests—so you don’t have to!
-
-⚡ **Seamless Execution**: Run generated tests against configured applications without manual intervention.
-
-🔄 **Continuous Improvement**: Learn from past executions to optimize test coverage and effectiveness over time.
-
-If you've ever wished your testing suite could write and run itself, Weave Labs is making that dream a reality! 🎉
-
-## Why Choose Weave Labs?
-
-✅ Save Time & Resources – Let AI handle the grunt work while your team focuses on innovation.
-
-✅ Comprehensive Coverage – Never worry about missing edge cases or gaps in your test suite.
-
-✅ Seamless Integration – Works with your existing CI/CD pipelines and repositories.
-
-✅ Intelligent Optimization – AI learns and improves over time, making testing smarter.
-
-## Join the Weave Labs Community!
-
-🚀 Follow our journey as we build the future of AI-powered testing! We’re always looking for contributors, early adopters, and fellow automation enthusiasts.
-
-Weave Labs is on a mission to revolutionize software testing—and we’d love for you to be part of it! 🧵✨
-
+Thank you for visiting weavelabs! We're excited to have you join our community and help shape the future of software development.
