@@ -9,7 +9,7 @@ weavelabs is a small team building an AI-Native platform for integration test au
 - **Test Management and Execution**: User-friendly UI to manage and generate use cases, test cases, test suites, and executable test scripts. The focus is to generate integration tests, performance tests, and end-to-end tests for most popular testing frameworks. 
 
 ## Fair Source 
-Our repositories are licensed using a fair source compatible license (Fair Core License, Version 1.0, ALv2 Future License). To learn more about this license check out: [https://fcl.dev/]https://fcl.dev/
+Our repositories are licensed using a fair source compatible license (Fair Core License, Version 1.0, ALv2 Future License). To learn more about this license check out: https://fcl.dev/
 
 ## Join The Community!
 If you are interested in our project, we would love for you to join the community.
