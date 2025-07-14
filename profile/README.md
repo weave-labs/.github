@@ -1,21 +1,19 @@
 # weavelabs 
-Welcome to weavelabs, where we're building an AI-driven platform for the Software Development Life Cycle (SDLC). Our mission is to simplify and accelerate the development process by providing cutting-edge tools and technologies that help teams deliver high-quality software faster.
+weavelabs is a small team building an AI-Native platform for integration test automation. Our mission is to simplify and accelerate the development process by providing tools that help teams deliver high-quality software faster.
 
 ## Our Platform 
 **Our platform focuses on three major features:**
 
-- **Automatic Code Scanning and Analysis**: Our Service Registry module uses AI-powered code scanning and analysis to automatically detect APIs, schema, and documentation. This provides a single pane of glass to view all services, making it easier to manage and understand complex systems.
-- **Synthetic Data Generation**: Our Synthetic Data Generation module generates high-quality, synthetic datasets based on discovered schemas. These datasets can be used for testing, training, and validation, reducing the need for manual data creation and increasing test coverage.
-- **Test Management and Execution**: Our Test Management and Execution module uses the Service Registry and generated data to automatically create Use Cases, Test Cases, Test Suites, and Executable Tests. This enables teams to generate integration tests, performance tests, and end-to-end tests with ease, all backed by powerful reporting dashboards.
+- **Automatic Code Scanning and Analysis**: Scan and analyze code to automatically detect APIs, schema, and documentation. Our goal is to use this data to generate and continually update test artifacts.
+- **Synthetic Data Generation**: High-quality, synthetic datasets generated using machine-learning models. These datasets can be used for testing, training, and validation, reducing the need for manual data creation and increasing test coverage.
+- **Test Management and Execution**: User-friendly UI to manage and generate use cases, test cases, test suites, and executable test scripts. The focus is to generate integration tests, performance tests, and end-to-end tests for most popular testing frameworks. 
 
-## Open Source 
-The best part? Our platform is Open Source! We believe that open collaboration and community involvement are essential for driving innovation and adoption. By making our platform open source, we invite developers, testers, and organizations to contribute, customize, and extend our tools to meet their specific needs.
+## Fair Source 
+Our repositories are licensed using a fair source compatible license (Fair Core License, Version 1.0, ALv2 Future License). To learn more about this license check out: [https://fcl.dev/]https://fcl.dev/
 
 ## Join The Community!
-Want to learn more about our platform or contribute to its development? Here's how:
+If you are interested in our project, we would love for you to join the community.
 
 - 🔍 Explore our repositories to see our code in action
 - 💬 Join our community Discord to discuss features, ask questions, and share knowledge
 - 👋 Contribute to our issues or submit a pull request to help improve our platform
-
-Thank you for visiting weavelabs! We're excited to have you join our community and help shape the future of software development.
